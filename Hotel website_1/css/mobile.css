@@ -1,0 +1,61 @@
+/* nav bar for mobile devices */
+#navbar .logo{
+    float:none;
+    text-align:center;
+}
+
+#navbar ul, #navbar ul li{
+    float: none;
+}
+#navbar ul li a{
+    padding:5px;
+    border-bottom:#444 dotted 1px;
+
+}
+
+
+/* showcase for Mobile devices */
+#showcase{
+    height:100%;
+}
+#showcase .showcase-content{
+    padding-top:70px;
+    padding-bottom: 30px;
+}
+/* HOme info for mobile devices */
+#home-info .info{
+    height:700px;
+}
+#home-info .info-img{
+    display:none;
+}
+#home-info .info-content{
+    float:none;
+    width: 100%;
+}
+
+/* Boxes */
+.box{
+    float:none;
+    width:100%;
+}
+
+
+
+/* -------------About Info on Mobile---------- */
+#about-info .info-left,
+#about-info .info-right{
+    float:none;
+    width:100%
+}
+
+#about-into .info-right{
+    margin-top:30px;
+} 
+.l-heading{
+    text-align: center;
+}
+/* Contact info on Mobile devices */
+#contact-info .box{
+    border-bottom: #444 dotted 1px;
+}
